@@ -1,79 +1,31 @@
 {
-    "id": 1,
-    "name": "Asp.Net Quiz",
-    "description": "Asp.Net Quiz (contains webform, mvc, web API, etc.)",
-    "questions": [
-        {
-            "id": 1010,
-            "name": "ASP.NET webform separates the HTML output from program logic using a feature named as",
-            "questionTypeId": 1,
-            "options": [
-                {
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "Exception",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1056,
-                    "questionId": 1010,
-                    "name": "Code-behind",
-                    "isAnswer": true
-                },
-                {
-                    "id": 1057,
-                    "questionId": 1010,
-                    "name": "Code-front",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1058,
-                    "questionId": 1010,
-                    "name": "None of the above",
-                    "isAnswer": false
-                }
-            ],
-            "questionType": {
-                "id": 1,
-                "name": "Multiple Choice",
-                "isActive": true
-            }
-        },
-        {
-            "id": 1011,
-            "name": "The feature in ASP.NET 2.0 that is used to fire a normal postback to a different page in the application is called",
-            "questionTypeId": 1,
-            "options": [
-                {
-                    "id": 1055,
-                    "questionId": 1010,
-                    "name": "Theme",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1057,
-                    "questionId": 1010,
-                    "name": "Code-front",
-                    "isAnswer": false
-                },
-                {
-                    "id": 1056,
-                    "questionId": 1010,
-                    "name": "Cross Page Posting",
-                    "isAnswer": true
-                },
-                {
-                    "id": 1058,
-                    "questionId": 1010,
-                    "name": "None of the above",
-                    "isAnswer": false
-                }
-            ],
-            "questionType": {
-                "id": 1,
-                "name": "Multiple Choice",
-                "isActive": true
-            }
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
