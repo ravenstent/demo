@@ -4,11 +4,6 @@
 			"id": 101,
 			"topicTitle": "Education",
 			"name": "Test 1",
-		},
-		{ 
-			"id": 102,
-			"topicTitle": "Business",
-			"name": "Test 2",
 		}
 	]
 }
