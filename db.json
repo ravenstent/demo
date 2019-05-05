@@ -3,6 +3,7 @@
     {
       "id": 1,
       "topicTitle": "Education",
+	  "name": "Test 1",
 	  "questions": [
 		{
 		  "id": 1,
@@ -21,6 +22,7 @@
     {
       "id": 2,
       "topicTitle": "Business",
+	  "name": "Test 2",
 	  "questions": [
 		{
 		  "id": 1,
@@ -39,6 +41,7 @@
     {
       "id": 3,
       "topicTitle": "Education",
+	  "name": "Test 3",
 	  "questions": [
 		{
 		  "id": 1,
@@ -66,8 +69,5 @@
       "body": "some comment",
       "postId": 1
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
