@@ -13,25 +13,25 @@
 							"id": 1055,
 							"questionId": 1,
 							"name": "The answer is A",
-							"isAnswer": false
+							"isChecked": false
 						},
 						{
 							"id": 1056,
 							"questionId": 1,
 							"name": "The answer is B",
-							"isAnswer": false
+							"isChecked": false
 						},
 						{
 							"id": 1057,
 							"questionId": 1,
 							"name": "The answer is C",
-							"isAnswer": false
+							"isChecked": false
 						},
 						{
 							"id": 1059,
 							"questionId": 1,
 							"name": "The answer is D",
-							"isAnswer": false
+							"isChecked": false
 						}
 					]
 				},
@@ -43,25 +43,25 @@
 							"id": 1055,
 							"questionId": 2,
 							"name": "The answer is A",
-							"isAnswer": false
+							"isChecked": false
 						},
 						{
 							"id": 1056,
 							"questionId": 2,
 							"name": "The answer is B",
-							"isAnswer": false
+							"isChecked": false
 						},
 						{
 							"id": 1057,
 							"questionId": 2,
 							"name": "The answer is C",
-							"isAnswer": false
+							"isChecked": false
 						},
 						{
 							"id": 1059,
 							"questionId": 2,
 							"name": "The answer is D",
-							"isAnswer": false
+							"isChecked": false
 						}
 					]
 				},
@@ -73,25 +73,25 @@
 							"id": 1055,
 							"questionId": 3,
 							"name": "The answer is A",
-							"isAnswer": false
+							"isChecked": false
 						},
 						{
 							"id": 1056,
 							"questionId": 3,
 							"name": "The answer is B",
-							"isAnswer": false
+							"isChecked": false
 						},
 						{
 							"id": 1057,
 							"questionId": 3,
 							"name": "The answer is C",
-							"isAnswer": false
+							"isChecked": false
 						},
 						{
 							"id": 1059,
 							"questionId": 3,
 							"name": "The answer is D",
-							"isAnswer": false
+							"isChecked": false
 						}
 					]
 				}
@@ -110,25 +110,25 @@
 							"id": 1055,
 							"questionId": 1,
 							"name": "The answer is A",
-							"isAnswer": false
+							"isChecked": false
 						},
 						{
 							"id": 1056,
 							"questionId": 1,
 							"name": "The answer is B",
-							"isAnswer": false
+							"isChecked": false
 						},
 						{
 							"id": 1057,
 							"questionId": 1,
 							"name": "The answer is C",
-							"isAnswer": false
+							"isChecked": false
 						},
 						{
 							"id": 1059,
 							"questionId": 1,
 							"name": "The answer is D",
-							"isAnswer": false
+							"isChecked": false
 						}
 					]
 				},
@@ -140,25 +140,25 @@
 							"id": 1055,
 							"questionId": 2,
 							"name": "The answer is A",
-							"isAnswer": false
+							"isChecked": false
 						},
 						{
 							"id": 1056,
 							"questionId": 2,
 							"name": "The answer is B",
-							"isAnswer": false
+							"isChecked": false
 						},
 						{
 							"id": 1057,
 							"questionId": 2,
 							"name": "The answer is C",
-							"isAnswer": false
+							"isChecked": false
 						},
 						{
 							"id": 1059,
 							"questionId": 2,
 							"name": "The answer is D",
-							"isAnswer": false
+							"isChecked": false
 						}
 					]
 				}
@@ -177,25 +177,25 @@
 							"id": 1055,
 							"questionId": 1,
 							"name": "The answer is A",
-							"isAnswer": false
+							"isChecked": false
 						},
 						{
 							"id": 1056,
 							"questionId": 1,
 							"name": "The answer is B",
-							"isAnswer": false
+							"isChecked": false
 						},
 						{
 							"id": 1057,
 							"questionId": 1,
 							"name": "The answer is C",
-							"isAnswer": false
+							"isChecked": false
 						},
 						{
 							"id": 1059,
 							"questionId": 1,
 							"name": "The answer is D",
-							"isAnswer": false
+							"isChecked": false
 						}
 					]
 				},
@@ -207,25 +207,25 @@
 							"id": 1055,
 							"questionId": 2,
 							"name": "The answer is A",
-							"isAnswer": false
+							"isChecked": false
 						},
 						{
 							"id": 1056,
 							"questionId": 2,
 							"name": "The answer is B",
-							"isAnswer": false
+							"isChecked": false
 						},
 						{
 							"id": 1057,
 							"questionId": 2,
 							"name": "The answer is C",
-							"isAnswer": false
+							"isChecked": false
 						},
 						{
 							"id": 1059,
 							"questionId": 2,
 							"name": "The answer is D",
-							"isAnswer": false
+							"isChecked": false
 						}
 					]
 				}
