@@ -243,5 +243,17 @@
 			"body": "some comment",
 			"postId": 1
 		}
+	],
+	"words": [
+		{ "id": 1, "spelling": "agile", "description": "able to move quickly and easily", "category": "A" },
+		{ "id": 2, "spelling": "bland", "description": "unreasoned, mild-tasting, or insipid food", "category": "B" },
+		{ "id": 3, "spelling": "congestion", "description": "the state of being congested", "category": "C" },
+		{ "id": 4, "spelling": "diagnosis", "description": "the identification of the nature of an illness of other problem by examination of the symptoms", "category": "D" },
+		{ "id": 5, "spelling": "enrich", "description": "improve or enhance the quality or value of", "category": "E" },
+		{ "id": 6, "spelling": "frail", "description": "weak and delicate", "category": "F" },
+		{ "id": 7, "spelling": "greviously", "description": "to a very severe ir serious degree", "category": "G" },
+		{ "id": 8, "spelling": "homeostasis", "description": "good balance between physical and metal health", "category": "H" },
+		{ "id": 9, "spelling": "impairment", "description": "the state or fact of being impaired, especially in a specified faculty", "category": "I" },
+		{ "id": 10, "spelling": "jurisdiction", "description": "the territory within which power can be exercised", "category": "J" }
 	]
 }
