@@ -8,6 +8,7 @@
 				{
 					"id": 1,
 					"description": "In _____ years we have experienced a rise in the number of cars on the road.",
+					"answerIndex": 4,
 					"options": [
 						{
 							"id": 1055,
@@ -38,6 +39,7 @@
 				{
 					"id": 2,
 					"description": "I was _____ disappointed when I failed my driving test.",
+					"answerIndex": 1,
 					"options": [
 						{
 							"id": 2055,
@@ -68,6 +70,7 @@
 				{
 					"id": 3,
 					"description": "Many _____ species can be found on the grasslands and in the jungles of Africa.",
+					"answerIndex": 3,
 					"options": [
 						{
 							"id": 3055,
@@ -105,6 +108,7 @@
 				{
 					"id": 1,
 					"description": "What is React?",
+					"answerIndex": 1,
 					"options": [
 						{
 							"id": 4055,
@@ -135,6 +139,7 @@
 				{
 					"id": 2,
 					"description": "What is React?",
+					"answerIndex": 1,
 					"options": [
 						{
 							"id": 5055,
@@ -172,6 +177,7 @@
 				{
 					"id": 1,
 					"description": "The _____ majority of rain in Spain falls mostly on the central plain.",
+					"answerIndex": 2,
 					"options": [
 						{
 							"id": 6055,
@@ -202,6 +208,7 @@
 				{
 					"id": 2,
 					"description": "The fact there is a _____ gap between the rich and poor in my country is worrying.",
+					"answerIndex": 3,
 					"options": [
 						{
 							"id": 7055,
