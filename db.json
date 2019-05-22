@@ -35,7 +35,7 @@
 							"questionId": 1,
 							"value": "recent",
 							"explanation": "Anim id nisi sint duis aliquip duis consequat irure ut laborum anim anim.",
-							"isAnswer": false
+							"isAnswer": true
 						}
 					]
 				},
@@ -48,7 +48,7 @@
 							"questionId": 2,
 							"value": "bitterly",
 							"explanation": "Anim id nisi sint duis aliquip duis consequat irure ut laborum anim anim.",
-							"isAnswer": false
+							"isAnswer": true
 						},
 						{
 							"id": 2056,
@@ -97,7 +97,7 @@
 							"questionId": 3,
 							"value": "endangered",
 							"explanation": "Anim id nisi sint duis aliquip duis consequat irure ut laborum anim anim.",
-							"isAnswer": false
+							"isAnswer": true
 						},
 						{
 							"id": 3059,
@@ -124,7 +124,7 @@
 							"questionId": 1,
 							"value": "The answer is A",
 							"explanation": "Anim id nisi sint duis aliquip duis consequat irure ut laborum anim anim.",
-							"isAnswer": false
+							"isAnswer": true
 						},
 						{
 							"id": 4056,
@@ -158,7 +158,7 @@
 							"questionId": 2,
 							"value": "The answer is A",
 							"explanation": "Anim id nisi sint duis aliquip duis consequat irure ut laborum anim anim.",
-							"isAnswer": false
+							"isAnswer": true
 						},
 						{
 							"id": 5056,
@@ -207,7 +207,7 @@
 							"questionId": 1,
 							"value": "vast",
 							"explanation": "Anim id nisi sint duis aliquip duis consequat irure ut laborum anim anim.",
-							"isAnswer": false
+							"isAnswer": true
 						},
 						{
 							"id": 6057,
@@ -249,7 +249,7 @@
 							"questionId": 2,
 							"value": "widening",
 							"explanation": "Anim id nisi sint duis aliquip duis consequat irure ut laborum anim anim.",
-							"isAnswer": false
+							"isAnswer": true
 						},
 						{
 							"id": 7059,
