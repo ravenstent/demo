@@ -146,25 +146,25 @@
 							"id": 8060,
 							"questionId": 4,
 							"value": "one",
-							"display": "number 1"
+							"display": "Number 1"
 						},
 						{
 							"id": 8061,
 							"questionId": 4,
 							"value": "two",
-							"display": "number 2"
+							"display": "Number 2"
 						},
 						{
 							"id": 8062,
 							"questionId": 4,
 							"value": "three",
-							"display": "number 3"
+							"display": "Number 3"
 						},
 						{
 							"id": 8063,
 							"questionId": 4,
 							"value": "four",
-							"display": "three"
+							"display": "Number 4"
 						}
 					]
 				}
