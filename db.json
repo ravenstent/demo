@@ -167,63 +167,6 @@
 							"display": "three"
 						}
 					]
-				},
-				{
-					"id": 5,
-					"questionType": 2,
-					"description": "Match correct definitions 2",
-					"words": [
-						{
-							"id": 9055,
-							"questionId": 4,
-							"value": "one",
-							"display": "one"
-						},
-						{
-							"id": 9056,
-							"questionId": 4,
-							"value": "two",
-							"display": "two"
-						},
-						{
-							"id": 9057,
-							"questionId": 4,
-							"value": "three",
-							"display": "three"
-						},
-						{
-							"id": 9059,
-							"questionId": 4,
-							"value": "four",
-							"display": "four"
-						}
-					],
-					"definitions": [
-						{
-							"id": 9060,
-							"questionId": 4,
-							"value": "one",
-							"display": "number 1"
-						},
-						{
-							"id": 9061,
-							"questionId": 4,
-							"value": "two",
-							"display": "number 2"
-						},
-						{
-							"id": 9062,
-							"questionId": 4,
-							"value": "three",
-							"display": "number 3"
-						},
-						{
-							"id": 9063,
-							"questionId": 4,
-							"value": "four",
-							"display": "three"
-						}
-					]
 				}
 			]
 		},
@@ -340,42 +283,6 @@
 							"id": 6059,
 							"questionId": 1,
 							"value": "far",
-							"explanation": "Anim id nisi sint duis aliquip duis consequat irure ut laborum anim anim.",
-							"isAnswer": false
-						}
-					]
-				},
-				{
-					"id": 2,
-					"questionType": 1,
-					"description": "The fact there is a _____ gap between the rich and poor in my country is worrying.",
-					"answerIndex": 3,
-					"options": [
-						{
-							"id": 7055,
-							"questionId": 2,
-							"value": "climbing",
-							"explanation": "Anim id nisi sint duis aliquip duis consequat irure ut laborum anim anim.",
-							"isAnswer": false
-						},
-						{
-							"id": 7056,
-							"questionId": 2,
-							"value": "lengthening",
-							"explanation": "Anim id nisi sint duis aliquip duis consequat irure ut laborum anim anim.",
-							"isAnswer": false
-						},
-						{
-							"id": 7057,
-							"questionId": 2,
-							"value": "widening",
-							"explanation": "Anim id nisi sint duis aliquip duis consequat irure ut laborum anim anim.",
-							"isAnswer": true
-						},
-						{
-							"id": 7059,
-							"questionId": 2,
-							"value": "soaring",
 							"explanation": "Anim id nisi sint duis aliquip duis consequat irure ut laborum anim anim.",
 							"isAnswer": false
 						}
