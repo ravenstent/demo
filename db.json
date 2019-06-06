@@ -7,6 +7,7 @@
 			"questions": [
 				{
 					"id": 1,
+					"questionType": 1,
 					"description": "In _____ years we have experienced a rise in the number of cars on the road.",
 					"options": [
 						{
@@ -41,6 +42,7 @@
 				},
 				{
 					"id": 2,
+					"questionType": 1,
 					"description": "I was _____ disappointed when I failed my driving test.",
 					"options": [
 						{
@@ -75,6 +77,7 @@
 				},
 				{
 					"id": 3,
+					"questionType": 1,
 					"description": "Many _____ species can be found on the grasslands and in the jungles of Africa.",
 					"answerIndex": 3,
 					"options": [
@@ -107,6 +110,120 @@
 							"isAnswer": false
 						}
 					]
+				},
+				{
+					"id": 4,
+					"questionType": 2,
+					"description": "Match correct definitions 1",
+					"words": [
+						{
+							"id": 8055,
+							"questionId": 4,
+							"value": "one",
+							"display": "one"
+						},
+						{
+							"id": 8056,
+							"questionId": 4,
+							"value": "two",
+							"display": "two"
+						},
+						{
+							"id": 8057,
+							"questionId": 4,
+							"value": "three",
+							"display": "three"
+						},
+						{
+							"id": 8059,
+							"questionId": 4,
+							"value": "four",
+							"display": "four"
+						}
+					],
+					"definitions": [
+						{
+							"id": 8060,
+							"questionId": 4,
+							"value": "one",
+							"display": "number 1"
+						},
+						{
+							"id": 8061,
+							"questionId": 4,
+							"value": "two",
+							"display": "number 2"
+						},
+						{
+							"id": 8062,
+							"questionId": 4,
+							"value": "three",
+							"display": "number 3"
+						},
+						{
+							"id": 8063,
+							"questionId": 4,
+							"value": "four",
+							"display": "three"
+						}
+					]
+				},
+				{
+					"id": 5,
+					"questionType": 2,
+					"description": "Match correct definitions 2",
+					"words": [
+						{
+							"id": 9055,
+							"questionId": 4,
+							"value": "one",
+							"display": "one"
+						},
+						{
+							"id": 9056,
+							"questionId": 4,
+							"value": "two",
+							"display": "two"
+						},
+						{
+							"id": 9057,
+							"questionId": 4,
+							"value": "three",
+							"display": "three"
+						},
+						{
+							"id": 9059,
+							"questionId": 4,
+							"value": "four",
+							"display": "four"
+						}
+					],
+					"definitions": [
+						{
+							"id": 9060,
+							"questionId": 4,
+							"value": "one",
+							"display": "number 1"
+						},
+						{
+							"id": 9061,
+							"questionId": 4,
+							"value": "two",
+							"display": "number 2"
+						},
+						{
+							"id": 9062,
+							"questionId": 4,
+							"value": "three",
+							"display": "number 3"
+						},
+						{
+							"id": 9063,
+							"questionId": 4,
+							"value": "four",
+							"display": "three"
+						}
+					]
 				}
 			]
 		},
@@ -117,6 +234,7 @@
 			"questions": [
 				{
 					"id": 1,
+					"questionType": 1,
 					"description": "What is React?",
 					"options": [
 						{
@@ -151,6 +269,7 @@
 				},
 				{
 					"id": 2,
+					"questionType": 1,
 					"description": "What is React?",
 					"options": [
 						{
@@ -192,6 +311,7 @@
 			"questions": [
 				{
 					"id": 1,
+					"questionType": 1,
 					"description": "The _____ majority of rain in Spain falls mostly on the central plain.",
 					"answerIndex": 2,
 					"options": [
@@ -227,6 +347,7 @@
 				},
 				{
 					"id": 2,
+					"questionType": 1,
 					"description": "The fact there is a _____ gap between the rich and poor in my country is worrying.",
 					"answerIndex": 3,
 					"options": [
