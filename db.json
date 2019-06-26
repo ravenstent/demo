@@ -119,24 +119,28 @@
 						{
 							"id": 8055,
 							"questionId": 4,
+							"cardType": 1,
 							"value": "one",
 							"display": "one"
 						},
 						{
 							"id": 8056,
 							"questionId": 4,
+							"cardType": 1,
 							"value": "two",
 							"display": "two"
 						},
 						{
 							"id": 8057,
 							"questionId": 4,
+							"cardType": 1,
 							"value": "three",
 							"display": "three"
 						},
 						{
 							"id": 8059,
 							"questionId": 4,
+							"cardType": 1,
 							"value": "four",
 							"display": "four"
 						}
@@ -145,24 +149,28 @@
 						{
 							"id": 8060,
 							"questionId": 4,
+							"cardType": 2,
 							"value": "one",
 							"display": "Number 1"
 						},
 						{
 							"id": 8061,
 							"questionId": 4,
+							"cardType": 2,
 							"value": "two",
 							"display": "Number 2"
 						},
 						{
 							"id": 8062,
 							"questionId": 4,
+							"cardType": 2,
 							"value": "three",
 							"display": "Number 3"
 						},
 						{
 							"id": 8063,
 							"questionId": 4,
+							"cardType": 2,
 							"value": "four",
 							"display": "Number 4"
 						}
